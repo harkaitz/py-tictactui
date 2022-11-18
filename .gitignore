@@ -1,0 +1,6 @@
+## -- PYTHON --
+*.egg-info
+dist/*
+build/*
+__pycache__
+## -- PYTHON --
