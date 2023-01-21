@@ -20,7 +20,7 @@ import getopt
 VERSION = "0.1"
 COPYRIGHT_LINE = """
 Bug reports, feature requests to gemini|https://harkadev.com/oss
-Copyright (c) 2022 Harkaitz Agirre, harkaitz.aguirre@gmail.com
+Copyright (c) 2023 Harkaitz Agirre, harkaitz.aguirre@gmail.com
 """
 START = """
 turn: x
