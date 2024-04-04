@@ -1,0 +1,8 @@
+## -- BLOCK:license --
+## -- BLOCK:license --
+## -- BLOCK:python --
+*.egg-info
+dist/*
+build/*
+__pycache__
+## -- BLOCK:python --
